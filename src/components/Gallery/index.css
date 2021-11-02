@@ -1,0 +1,17 @@
+/* Write your code here. */
+.thumbnailImages {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.bgContainer {
+  background-color: #ffffff;
+  padding: 20px;
+  margin: 20px;
+}
+.displayImage {
+  width: 60%;
+}
+.listStyle {
+  list-style-type: none;
+}

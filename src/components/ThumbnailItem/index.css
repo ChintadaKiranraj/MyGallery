@@ -1,0 +1,16 @@
+/* Write your code here. */
+
+.thumblinebutton {
+  margin-right: 10px;
+  border-radius: 10px;
+  border-style: none;
+  background: transparent;
+  opacity: 2;
+}
+
+.active {
+  opacity: 1;
+}
+.nonActive {
+  opacity: 0.5;
+}
